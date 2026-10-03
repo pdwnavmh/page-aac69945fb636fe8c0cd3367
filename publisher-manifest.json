@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "f6914748ecbe87d6b025f117",
+  "owner": "pdwnavmh",
+  "repo": "page-aac69945fb636fe8c0cd3367",
+  "title": "R",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "aac69945fb636fe8c0cd3367",
+      "a": "R",
+      "b": "",
+      "entity": "R",
+      "brand": "R",
+      "separator": "",
+      "path": "index.html",
+      "hash": "268636e4c98f20397aace1d44415e52dd8e705966be50546ea25bb1df497e74e",
+      "content": {
+        "keyword1": "R",
+        "keyword2": "",
+        "primary_entity": "R",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "R 提供机场订阅与 VPN 梯子网络加速服务，支持多端客户端下载，覆盖流媒体、游戏与跨境办公。访问 R 官网对比套餐并获取官方下载指引。",
+          "AI_DESCRIPTION": "R 提供机场订阅与 VPN 梯子网络加速服务，支持多端客户端下载，覆盖流媒体、游戏与跨境办公。访问 R 官网对比套餐并获取官方下载指引。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>body{font-family:system-ui,-apple-system,\"PingFang SC\",\"Microsoft YaHei\",sans-serif;font-size:16px;line-height:1.75;color:#14281D;background:#F6F3EA;margin:0}*,*:before,*:after{box-sizing:border-box}a{color:#2D6A4F}header{background:#1B4332;color:#F6F3EA;padding:10px 0}.wrap{max-width:1080px;margin:0 auto;padding:0 16px}nav{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center}nav a{color:#D8F3DC;text-decoration:none;font-size:14px}main{padding:8px 0 40px}.lead{font-size:17px;margin:0 0 20px}h1{font-size:1.75rem;line-height:1.3;color:#1B4332;margin:20px 0 12px}h2{font-size:1.35rem;color:#1B4332;margin:36px 0 12px;padding-bottom:6px;border-bottom:2px solid #95D5B2}h3{font-size:1.1rem;color:#2D6A4F;margin:18px 0 8px}p,li{margin:0 0 10px}.row{display:flex;flex-wrap:wrap;gap:16px;margin:16px 0}.col{flex:1 1 280px}.card{background:#fff;border:1px solid #D4E6D9;border-radius:6px;padding:18px}.card.featured{border:2px solid #2D6A4F;background:#F1F8F4}.price{font-size:1.5rem;font-weight:700;color:#1B4332}.sub{color:#52796F;font-size:14px;margin-bottom:10px}ul.feat{padding-left:1.2em;margin:10px 0 14px}.cta{display:inline-block;background:#2D6A4F;color:#fff;text-decoration:none;padding:8px 16px;border-radius:4px;font-size:15px}details{background:#fff;border:1px solid #D4E6D9;border-radius:6px;padding:12px 14px;margin:0 0 8px}summary{font-weight:600;color:#1B4332}footer{background:#1B4332;color:#D8F3DC;padding:28px 0;font-size:14px}footer a{color:#95D5B2}footer h2{color:#D8F3DC;border-color:#40916C;font-size:1.1rem;margin-top:0}.muted{color:#52796F;font-size:14px}.box{background:#E8F5E9;border-left:4px solid #2D6A4F;padding:12px 14px;margin:12px 0}.ad{background:#EEF6EF;border:1px dashed #40916C;padding:16px;margin:24px 0;border-radius:6px}.flink a{display:inline-block;margin:0 12px 8px 0}#sitemap ul{padding-left:1.2em}@media(max-width:640px){h1{font-size:1.45rem}nav a{font-size:13px}.price{font-size:1.3rem}}</style><header><div class=\"wrap\"><nav><a href=\"#\">R 官网</a><a href=\"#about\">品牌简介</a><a href=\"#plans\">套餐对比</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#links\">友链</a></nav></div></header><main class=\"wrap\"><h1>R 官方机场与 VPN 加速服务</h1><p class=\"lead\">R 面向需要稳定跨境网络的用户，提供机场订阅、多节点加速与主流客户端兼容方案。无论是观看国际流媒体、降低游戏延迟，还是远程协作与资料检索，都可以在 R 官网完成套餐选择与官方指引。</p><section id=\"about\"><h2>品牌简介</h2><div class=\"row\"><div class=\"col\"><p>R 是专注网络加速体验的服务品牌。我们以订阅制机场为核心，将线路筛选、流媒体解锁与客户端导入流程标准化，让用户少走弯路。R 仅通过官方网站交付订阅，强调可预期的流量、设备数与工单响应，而不是含糊的无限承诺。</p><p>服务覆盖个人轻度使用、重度流媒体与游戏玩家，以及需要多人共用的小团队。节点分布在香港、日本、新加坡、美国等地，并针对游戏场景提供 IPLC 专线优化（旗舰版及以上）。</p></div><div class=\"col\"><div class=\"box\"><h3>官方身份说明</h3><p>请认准 R 官网获取套餐与订阅。任何第三方代充、破解客户端或来路不明的节点分享均与品牌无关。订阅链接仅在登录后的用户中心显示。</p></div></div></div></section><section id=\"plans\"><h2>套餐对比</h2><p>以下为 R 现行公开套餐，价格含基础售后。年付可降低月均成本。流量按自然月重置，同时在线设备数以客户端实际在线为准。</p><div class=\"row\"><div class=\"col card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"sub\">按年付仅需 ¥150/年</p><ul class=\"feat\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a class=\"cta\" href=\"#download\">查看客户端导入</a></div><div class=\"col card featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"sub\">按年付仅需 ¥350/年</p><ul class=\"feat\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a class=\"cta\" href=\"#download\">查看客户端导入</a></div><div class=\"col card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"sub\">按年付仅需 ¥850/年</p><ul class=\"feat\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a class=\"cta\" href=\"#download\">查看客户端导入</a></div></div><p class=\"muted\">选择套餐后请通过 R 官网结算。本页为说明页，不直接收款。设备超限请升级或管理在线会话。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>远程办公与视频会议</h3><p>连接海外协作平台、云文档与会议软件时，选择延迟较低的区域节点即可。团队版可为企业网段做基础分流建议，减少公共网络下的不稳定。</p><h3>国际流媒体与内容平台</h3><p>旗舰版强调原生解锁，适合需要稳定播放列表与清晰度的用户。基础版覆盖常见内容站点的基础访问。请使用客户端的规则分流，避免所有流量走代理。</p><h3>在线游戏与实时对战</h3><p>IPLC 专线用于降低抖动。旗舰版对游戏加速做了线路标注，建议在客户端中收藏对应节点并开启游戏模式或虚拟网卡。</p><h3>开发、学术与开源访问</h3><p>拉取代码仓库、阅读文档、使用海外接口与资料库时，稳定的海外出口能减少超时。请遵守目标网站与所在地的使用条款。</p><h3>家庭多设备共享</h3><p>手机、电脑与盒子可共用同一订阅（受设备数限制）。路由器刷入兼容核心后，可按规则分流。团队版更适合长期多终端。</p></section><section id=\"guide\"><h2>操作说明</h2><h3>一、完成订阅</h3><p>在 R 官网选择基础版、旗舰版或团队版，按提示支付。开通后进入用户中心，复制通用订阅链接，并按 Clash 或 Sing-box 等客户端格式选择。</p><h3>二、下载并安装客户端</h3><p>桌面端可使用 Clash 系兼容客户端；iOS 可使用 Shadowrocket 等；Android 可使用 Clash Meta 等。请从客户端开发者或应用商店下载。R 不托管安装包，以防篡改。</p><h3>三、导入订阅并选择节点</h3><p>打开客户端，添加订阅地址并更新。浏览可选邻近地区普通线路，流媒体选解锁节点，游戏选 IPLC。开启系统代理或虚拟网卡后即可使用。</p><h3>四、分流与日常维护</h3><p>建议开启规则模式，国内网站直连。定期更新订阅以获取新节点。流量可在用户中心查看。单条线路异常时切换节点即可，无需重装。</p></section><section id=\"download\"><h2>客户端下载与官网指引</h2><p>R 的核心是机场订阅，而非绑定某一款闭源应用。请通过 R 官网登录后获取专属订阅地址，再导入你熟悉的客户端。更换设备时无需重新购买套餐。</p><p>支持 Windows、macOS、Linux、iOS、Android 以及部分支持订阅的路由器固件。具体兼容列表以用户中心说明为准。切勿下载标注破解版的软件。</p><div class=\"box\"><p><strong>官方下载原则：</strong>订阅只在 R 官网用户中心发放；客户端只从原作者渠道获取。将两者分开，是为了降低供应链风险并保持节点更新灵活。</p></div></section><section id=\"faq\"><h2>常见问题</h2><details><summary>R 是机场还是传统 VPN？和梯子有什么关系？</summary><p>R 以机场订阅方式提供可切换的多节点加速，常被用于网络加速与梯子场景。与单一入口的传统 VPN 相比，用户能按地区、用途挑选线路，并配合 Clash 等客户端做分流。请将服务用于合法的跨境访问、办公与内容消费，并遵守当地法律法规。</p></details><details><summary>如何进行客户端下载？必须用指定软件吗？</summary><p>不强制唯一客户端。你可以从 Clash 生态、Shadowrocket、Stash、Surge 等自行选择。R 官网提供订阅链接与导入说明，不强制安装来源不明的加速器安装包。这样便于验证软件来源并及时获得客户端安全更新。</p></details><details><summary>三个套餐怎么选？流量和设备不够用怎么办？</summary><p>轻度浏览与偶尔视频选基础版；经常看流媒体或打游戏选旗舰版；多人共用或长期大流量选团队版。流量按月重置，用尽当月会暂停加速。设备数指同时在线，可下线闲置终端或升级套餐。年付适合已经确认延迟与解锁满足需求的用户。</p></details><details><summary>节点会包含哪些地区？晚高峰卡顿如何处理？</summary><p>公开说明中覆盖香港、日本、新加坡、美国等常用方向，旗舰与团队含 IPLC 与高带宽 VIP 节点。晚高峰请优先切换至标注优化或专线的节点，并避免全局代理占用全部带宽。具体列表以订阅更新后的客户端为准，官方不在网页上公示全部地址。</p></details><details><summary>是否记录日志？订阅能否与他人分享？</summary><p>R 以提供加速通道为目的，不鼓励无必要的访问日志留存。请勿将个人订阅公开张贴或转卖，以免流量被盗用、触发风控或违反套餐设备限制。团队版可在约定范围内供内部成员使用，并配有客户经理协助规划路由。</p></details><details><summary>付款后未开通或需要售后如何处理？</summary><p>大多数订单会即时到账。若未看到订阅，请先刷新用户中心并核对支付回执。旗舰版提供优先工单，团队版有专属客户经理。售后规则以官网订购页公示为准。不要通过非官方即时聊天工具转账。</p></details></section><div class=\"ad\" id=\"ads\"><h2>广告合作</h2><p>本栏为 R 官网展示合作位，可用于浏览器扩展、跨境协作工具、独立开发者产品等互换推荐。我们不接受来路不明的破解加速器投放。合作请通过官网公示渠道联系，本页仅作说明。</p><p><a href=\"#links\">查看友情链接栏目</a> · <a href=\"#about\">返回品牌说明</a></p></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><nav id=\"sitemap\"><h2>网站地图</h2><ul><li><a href=\"#\">首页</a></li><li><a href=\"#about\">品牌简介</a></li><li><a href=\"#plans\">套餐对比</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#ads\">广告合作</a></li><li><a href=\"#links\">友情链接</a></li></ul></nav><section id=\"links\"><h2>友情链接</h2><p class=\"flink\"><a href=\"#guide\">客户端使用要点</a><a href=\"#download\">多端下载说明</a><a href=\"#plans\">R 套餐一览</a><a href=\"#faq\">机场订阅问答</a><a href=\"#scenes\">网络加速场景</a><a href=\"#\">R 官网首页</a></p><p class=\"muted\">友链均为页内锚点或本站说明入口，便于索引关键章节。互换文字链前请确认对方站点内容健康。</p></section><p>© R 官方网站 · 机场订阅与 VPN 网络加速服务介绍页。套餐、节点与下载说明以官网实时公示为准。</p></div></footer>",
+          "hash": "f833264313808f7528f286385117ecb9d697091ddec56dc95ee57ce6f23f5802",
+          "seo": {
+            "title": "R 官方网站 | 机场订阅、VPN 梯子加速与客户端下载",
+            "keywords": "R,R机场,R VPN,R官网,R官方下载,机场订阅,VPN加速器,梯子,网络加速,客户端下载,加速器官网",
+            "description": "R 提供机场订阅与 VPN 梯子网络加速服务，支持多端客户端下载，覆盖流媒体、游戏与跨境办公。访问 R 官网对比套餐并获取官方下载指引。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fyfwrbd.cn",
+    "host": "p-583bdab67c.fyfwrbd.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "fyfwrbd.cn",
+      "url": "https://fyfwrbd.cn/",
+      "label": "艾可云(V2AKY)",
+      "apex": "fyfwrbd.cn",
+      "kind": null,
+      "identity": "ravpnhu8u/page-70923d650f5cb77d86d69cc5"
+    },
+    {
+      "host": "nmudl.com",
+      "url": "https://nmudl.com/",
+      "label": "R",
+      "apex": "nmudl.com",
+      "kind": null,
+      "identity": "qcmxgvja/page-344741517d3816bcda8cc477"
+    },
+    {
+      "host": "xn--9kq52er5gdmt.com",
+      "url": "https://xn--9kq52er5gdmt.com/",
+      "label": "R",
+      "apex": "xn--9kq52er5gdmt.com",
+      "kind": null,
+      "identity": "wtbgvfamc/page-6f0ef5dc633ec1d40844bd11"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "0ba2155c271fa1b721d1455fc95dc9c15498f2db5c02cc87c872d1c948b83115",
+    "sitemap.xml": "94704cfb10f5f9a6d20c8441f5c545e3ce2f59ccaf156e77de64061c3083dc00",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "827621a9183a8f0a75a8014f14f3c56dd9c10074c037de95396872ffb6c5dc8c",
+    "robots.txt": "d1603b28364c494d58834d82db35dbb84d97e93f2a5ec3c9600ca5f7b52907ab",
+    "c0d84b479f9651e3749fac4ec7ffa17e.txt": "ac83d2e030ffc07f66b68f6ccafd5dd60129e82a03032b9b610d685b05f0928c"
+  },
+  "revision": "8603171c4f10db1a48fa577a28687d400f1de92f59f3ced572bc17a684016c4a"
+}
